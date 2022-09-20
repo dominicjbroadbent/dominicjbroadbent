@@ -9,4 +9,6 @@ Esport match outcome prediction - https://github.com/Tennessee-Wallaceh/predota
 
 Gaussian Process classification - https://github.com/Tennessee-Wallaceh/gproc
 
+## Curriculum Vitae
+https://drive.google.com/file/d/1a9ovogE2Q_5vEwEjj91LttgO2imdfK9Z/view?usp=sharing
 
