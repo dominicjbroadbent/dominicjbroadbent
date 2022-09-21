@@ -1,5 +1,5 @@
 ## About Me
-I'm a second-year PhD student at the Univeristy of Bristol's ESPRC Centre for Doctoral Training in Computational Statistics and Data Science. My interests lie in data compression.
+I'm a second-year PhD student at the Univeristy of Bristol's ESPRC Centre for Doctoral Training in Computational Statistics and Data Science. My interests lie in non-parametric data compression and data compression in the context of Bayesian inference.
 
 ## Projects
 Company pivot or rebrand detector - https://github.com/dominicjbroadbent/pr_detector
