@@ -6,9 +6,9 @@ Company pivot or rebrand detector - https://github.com/dominicjbroadbent/pr_dete
 
 Predicting film viewer ratings - https://github.com/dominicjbroadbent/film_ratings
 
-Predicting train delays - https://github.com/dominicjbroadbent/train_delays (In Progress)
+Predicting train delays - https://github.com/dominicjbroadbent/train_delays (In progress)
 
-Simulating zombie outbreaks - https://github.com/dominicjbroadbent/zombie_outbreaks (In Progress)
+Simulating zombie outbreaks - https://github.com/dominicjbroadbent/zombie_outbreaks (In progress)
 
 Predicting Dota 2 esport matches - https://github.com/Tennessee-Wallaceh/predota
 
