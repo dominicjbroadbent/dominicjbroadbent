@@ -14,7 +14,7 @@ Module for Gaussian Process classification - https://github.com/Tennessee-Wallac
 
 Predicting train delays - https://github.com/dominicjbroadbent/train_delays (In progress)
 
-Simulating zombie outbreaks - https://github.com/dominicjbroadbent/zombie_outbreaks (In progress)
+Simulating zombie outbreaks - https://github.com/dominicjbroadbent/zombie_outbreak (In progress)
 
 ## Curriculum Vitae
 https://drive.google.com/file/d/1a9ovogE2Q_5vEwEjj91LttgO2imdfK9Z/view?usp=sharing
