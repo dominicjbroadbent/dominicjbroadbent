@@ -1,7 +1,7 @@
 ## About Me
 I'm a second-year PhD student at the Univeristy of Bristol's ESPRC Centre for Doctoral Training in Computational Statistics and Data Science. My interests lie in non-parametric data compression and data compression in the context of Bayesian inference.
 
-## Personal Projects
+## Projects
 Implementation of Kernel Herding - https://github.com/dominicjbroadbent/kherd
 
 Company pivot or rebrand detector - https://github.com/dominicjbroadbent/pr_detector
