@@ -4,6 +4,8 @@ I'm a second-year PhD student at the Univeristy of Bristol's ESPRC Centre for Do
 ## Projects
 Implementation of Kernel Herding - https://github.com/dominicjbroadbent/kherd
 
+Implementation of LOESS - https://github.com/dominicjbroadbent/loess
+
 Company pivot or rebrand detector - https://github.com/dominicjbroadbent/pr_detector
 
 Module for Gaussian Process classification - https://github.com/Tennessee-Wallaceh/gproc
