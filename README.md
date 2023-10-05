@@ -1,5 +1,5 @@
 ## About Me
-I'm a second-year PhD student at the Univeristy of Bristol's ESPRC Centre for Doctoral Training in Computational Statistics and Data Science working on data compression.
+I'm a third-year PhD student at the Univeristy of Bristol's ESPRC Centre for Doctoral Training in Computational Statistics and Data Science working on data compression.
 
 ## Personal Projects
 Kernel Herding for distribution compression - https://github.com/dominicjbroadbent/kherd
