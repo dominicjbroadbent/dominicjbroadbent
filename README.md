@@ -4,6 +4,8 @@ I'm a second-year PhD student at the Univeristy of Bristol's ESPRC Centre for Do
 ## Personal Projects
 Kernel Herding for distribution compression - https://github.com/dominicjbroadbent/kherd
 
+Spectral conditional density estimation in high dimensions - https://github.com/dominicjbroadbent/SpectralCDE
+
 Company pivot / rebrand detector - https://github.com/dominicjbroadbent/pr_detector
 
 Predicting film viewer ratings - https://github.com/dominicjbroadbent/film_ratings
