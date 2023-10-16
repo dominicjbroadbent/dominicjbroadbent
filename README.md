@@ -23,4 +23,4 @@ Developing a Computer Algebra System (CAS) - https://drive.google.com/file/d/1Pm
 Modelling a Measles Epidemic - https://drive.google.com/file/d/1PiZONJ8Mxpj-EOTMQR7U_rgqJN-SMF4F/view?usp=sharing
 
 ## Curriculum Vitae
-https://drive.google.com/file/d/1L_gwdu6w0JKi_N1cQsGgAq8eETrS4j7G/view?usp=sharing
+https://drive.google.com/file/d/1K_IQfelkA0XWFOooXD3I03rxxJ7Byd_e/view?usp=drive_link
