@@ -1,6 +1,8 @@
 ## About Me
 I'm a third-year PhD student at the Univeristy of Bristol's ESPRC Centre for Doctoral Training in Computational Statistics and Data Science working on data compression.
 
+Currently paused my PhD for 6 months for a placement at the Alan Turing Institue.
+
 ## Personal Projects
 Kernel Herding for distribution compression - https://github.com/dominicjbroadbent/kherd
 
@@ -24,3 +26,6 @@ Modelling a Measles Epidemic - https://drive.google.com/file/d/1PiZONJ8Mxpj-EOTM
 
 ## Curriculum Vitae
 https://drive.google.com/file/d/1K_IQfelkA0XWFOooXD3I03rxxJ7Byd_e/view?usp=drive_link
+
+## Links
+https://www.linkedin.com/in/dominic-broadbent/
