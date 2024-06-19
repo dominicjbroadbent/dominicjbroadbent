@@ -26,6 +26,8 @@ Modelling a Measles Epidemic - https://drive.google.com/file/d/1PiZONJ8Mxpj-EOTM
 
 ## Links
 Linkedin - https://www.linkedin.com/in/dominic-broadbent/
+
 Curriculum Vitae - https://drive.google.com/file/d/1K_IQfelkA0XWFOooXD3I03rxxJ7Byd_e/view?usp=drive_link
+
 University Profile - https://compass.blogs.bristol.ac.uk/students/dominic-broadbent/
 
