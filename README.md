@@ -25,7 +25,9 @@ Developing a Computer Algebra System (CAS) - https://drive.google.com/file/d/1Pm
 Modelling a Measles Epidemic - https://drive.google.com/file/d/1PiZONJ8Mxpj-EOTMQR7U_rgqJN-SMF4F/view?usp=sharing
 
 ## Links
-Linkedin - https://www.linkedin.com/in/dominic-broadbent
+[//]: # (Linkedin - https://www.linkedin.com/in/dominic-broadbent)
+
+Website - https://dominicjbroadbent.github.io/
 
 University Profile - https://compass.blogs.bristol.ac.uk/students/dominic-broadbent/
 
