@@ -4,7 +4,7 @@ I'm a fourth-year PhD student at the Univeristy of Bristol's [ESPRC Centre for D
 Check out my personal [website](https://dominicjbroadbent.github.io/) for additional details about me!
 
 ## Doctoral Projects
-Conditional Distribution Compression via the Kernel Conditional Mean Embedding (Published at NeurIPS 2025)[https://arxiv.org/abs/2504.10139]. - 
+Conditional Distribution Compression via the Kernel Conditional Mean Embedding [Published at NeurIPS 2025](https://arxiv.org/abs/2504.10139). - 
 
 ## Personal Projects
 Kernel Herding for distribution compression - https://github.com/dominicjbroadbent/kherd
