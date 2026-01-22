@@ -6,7 +6,7 @@ Check out my personal [website](https://dominicjbroadbent.github.io/) for additi
 ## Doctoral Projects
 Conditional Distribution Compression via the Kernel Conditional Mean Embedding - [Published at NeurIPS 2025](https://arxiv.org/abs/2504.10139), this work extends distribution compression to act on joint and conditional distributions. Distribution compression is concerned with reducing the size of datasets while maintaining downstream performance, in our case we consider various regression, classification and uncertainty quantification tasks.
 
-Bilateral Distribution Compression: Reducing Data in Both Size and Dimension - [Under review at ICLR 2026](https://arxiv.org/abs/2509.17543)), this work extends distribution compression to also consider dimension reduction. We reduce both the number of observations adn the number of dimensions of a dataset simultaneously while maintaing or improving downstream task performance for datasets which exhibit low-dimensional manifold structure.
+Bilateral Distribution Compression: Reducing Data in Both Size and Dimension - [Under review at ICLR 2026](https://arxiv.org/abs/2509.17543), this work extends distribution compression to also consider dimension reduction. We reduce both the number of observations adn the number of dimensions of a dataset simultaneously while maintaing or improving downstream task performance for datasets which exhibit low-dimensional manifold structure.
 
 ## Personal Projects
 Kernel Herding for distribution compression - https://github.com/dominicjbroadbent/kherd
